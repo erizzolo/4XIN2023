@@ -1,0 +1,7 @@
+# formato: JSON
+# 4 posizioni
+{ "latitudine": 3.14, "longitudine": 5.8, "indirizzo": "Via Padana 18" }
+{ "latitudine": 10.0, "longitudine": -2.4, "indirizzo": "Via dei Mille 62" }
+{ "latitudine": -1.0, "longitudine": 12.0, "indirizzo": "P.za Verdi, 48" }
+{ "latitudine": 1.0, "longitudine": -2.2, "indirizzo": "Via Sauro 19" }
+# 4 posizioni

@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "vmArgs": "-Dprism.verbose=true -Dprism.forceGPU=true -p /usr/share/openjfx/lib --add-modules javafx.controls",
+            "projectName": "",
+            "windows": {
+                "vmArgs": " -p \"C:\\Program Files\\javafx-sdk-11.0.2\\lib\" --add-modules javafx.controls"
+            }
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+# formato: CSV
+# 4 posizioni
+3.14,5.8,Via Padana 18
+10.0,-2.4,Via dei Mille 62
+-1.0,12.0,P.za Verdi, 48
+1.0,-2.2,Via Sauro 19
+# 4 posizioni

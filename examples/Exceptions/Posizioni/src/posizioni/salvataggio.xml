@@ -1,0 +1,7 @@
+# formato: XML
+# 4 posizioni
+<posizione><latitudine>3.14</latitudine><longitudine>5.8</longitudine><indirizzo>Via Padana 18</indirizzo></posizione>
+<posizione><latitudine>10.0</latitudine><longitudine>-2.4</longitudine><indirizzo>Via dei Mille 62</indirizzo></posizione>
+<posizione><latitudine>-1.0</latitudine><longitudine>12.0</longitudine><indirizzo>P.za Verdi, 48</indirizzo></posizione>
+<posizione><latitudine>1.0</latitudine><longitudine>-2.2</longitudine><indirizzo>Via Sauro 19</indirizzo></posizione>
+# 4 posizioni

@@ -1,0 +1,12 @@
+# JSON: {latitudine: 3.14, longitudine: 5.8, indirizzo: "Via Padana 18"}
+# XML
+# <posizione><latitudine>3.14</latitudine></posizione>
+# CSV latitudine,longitudine,indirizzo: 3.14,5.8,Via Padana 18
+3.14,5.8,Via Padana 18
+10,-2.4,Via dei Mille 62
+-1,12,P.za Verdi, 48
+# riga errata
+abcdef..,,&%$,,,
+NaN,2.0,????
+# righe successive corrette
+1.0,-2.2,Via Sauro 19
