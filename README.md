@@ -15,6 +15,7 @@ Examples of Java code for students 4AIN & 4BIN.
 | [Static](examples/Static)                          | Static keyword                                          |
 | [Inheritance](examples/Inheritance/inheritance.md) | Inheritance examples                                    |
 | [Exceptions](examples/Exceptions/README.md)        | Exceptions                                              |
+| [Enums](examples/Enums/README.md)                  | Enum classes                                            |
 
 ### List of exercises
 | exercise                                         | topic                                | solution |
