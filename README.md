@@ -5,6 +5,9 @@ Examples of Java code for students 4AIN & 4BIN.
 * Basic knowledge of C++ syntax (no OOP needed)
 * Programming tools (see [here](tools.md))
 
+## Useful material
+* [David J. Eck: Introduction to Programming Using Java](https://math.hws.edu/javanotes/)
+
 ### List of examples
 | example                                            | topic                                                   |
 | -------------------------------------------------- | ------------------------------------------------------- |
@@ -17,7 +20,7 @@ Examples of Java code for students 4AIN & 4BIN.
 | [Exceptions](examples/Exceptions/README.md)        | Exceptions                                              |
 | [Enums](examples/Enums/README.md)                  | Enum classes                                            |
 | [Interfaces](examples/Interfaces/README.md)        | Interfaces and abstract classes                         |
-
+| [Collections](examples/Collections/README.md)      | Collections                                             |
 ### List of exercises
 | exercise                                         | topic                                | solution |
 | ------------------------------------------------ | ------------------------------------ | -------- |
