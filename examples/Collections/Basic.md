@@ -10,7 +10,7 @@ L'interfaccia base della gerarchia è *Iterable*, che consente di effettuare del
 
 Essa è estesa dall'interfaccia *Collection* da cui derivano tutte le altre: per qualunque *Collection* *c* potremo quindi scrivere:
 ```Java
-for(Element e: c) { // operazioni su e }
+for(Element e: c) { /* operazioni su e */ }
 ```
 essendo *Element* il tipo della *Collection*.
 
